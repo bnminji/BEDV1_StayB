@@ -34,7 +34,7 @@
 - 수행 인원과 역할
     - 김선호(팀장) : 숙소 예약 서비스, 테스트 코드 작성, 예외 통합 처리, API 문서화
     - 박건희 : 숙소 등록, 업데이트(patch), 입력값 검증
-    - 변민지 : 숙소 검색
+    - 변민지 : 숙소 관련 일부 기능(등록,삭제), 숙소 검색
 - 주요 기능
 ![프로젝트 주요 기능.png](https://github.com/prgrms-be-devcourse/BEDV1_StayB/blob/9bf5b92b553b1148b9dc2543ffe411f910fb4a1b/img/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%A3%BC%EC%9A%94%20%EA%B8%B0%EB%8A%A5.png)
 
